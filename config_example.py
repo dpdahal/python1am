@@ -1,4 +1,0 @@
-db = {
-    'username': '',
-    'password': ''
-}
